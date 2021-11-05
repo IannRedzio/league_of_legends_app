@@ -1,7 +1,5 @@
 import Welcome from "./welcome/Welcome";
-// import Champion from "./champion/Champion";
-// import ChampionDetail from "./champion/ChampionDetail";
-// import Trailer from "./trailer/Trailer";
-// import Credit from "./credit/Credit";
+import Champion from "./champion/Champion";
+import ChampionDetail from "./champion/ChampionDetail";
 
-export { Welcome };
+export { Welcome, Champion, ChampionDetail };
